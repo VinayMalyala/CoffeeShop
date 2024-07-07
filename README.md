@@ -16,6 +16,10 @@ This is a responsive coffee shop website built using HTML, CSS, and JavaScript. 
 - **CSS**: Used for styling, including layout, colors, fonts, and responsiveness.
 - **JavaScript**: Adds interactivity and dynamic features, such as form validation and interactive menus.
 
+## Preview:
+
+https://github.com/VinayMalyala/CoffeeShop/assets/111955986/58a95cb9-ae70-47aa-8918-c1ede9de6e51
+
 ## Installation
 
 To get a local copy up and running, follow these steps:
